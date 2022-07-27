@@ -23,7 +23,7 @@ Implemente o nosso protótipo do "Dark Souls", seguindo os slides das aulas sobr
 1. Crie os testes de unidade para testar todos os métodos das classes
 1. Fazer a classe Principal com o método main é opcional
 
-# Etapa 3
+## Etapa 3
 
 Veja os slides "Interface (parte 2)":
 
